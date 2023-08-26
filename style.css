@@ -1,0 +1,38 @@
+footer{
+    text-align: center;
+}
+
+.conteudo,p{
+    font-size: 20px;
+}
+
+header{
+    text-align: center;
+    
+    background-color: #003087;
+}
+
+.menu{
+    padding: 20px;
+    font-size: 30px;
+    background-color: #003087;
+}
+
+.rodape{
+    padding: 2%;
+    background-color: #003087;
+    color: #FFF;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.produto_1{
+    width: 49%;
+    display: inline-block;
+}
+
+.produto_2{
+    display: inline-block;
+}
